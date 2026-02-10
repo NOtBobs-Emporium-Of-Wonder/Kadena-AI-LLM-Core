@@ -38,7 +38,7 @@ Vibe Code: Use the provided prompts to start building.
 🤝 Join the Community
 We believe in the power of the KDA Community. If you have a working snippet, a clever prompt, or a template that works, please contribute!
 
-Contribute: Submit a Pull Request with your proven Pact code.
+Contribute: Contact _Not_Bob__  on telegrame  or Discord on the kda community servers. 
 
 Discuss: Join the conversation in the Kadena Discord/Telegram.
 
